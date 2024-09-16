@@ -1,0 +1,115 @@
+country,ISO, avg_person_day ,share,avg_rdi,rdi_rate
+Antigua & Barbuda,AG," 36,353.00 ",0.01,NA,NA
+Anguilla,AI," 6,236.00 ",0,NA,NA
+American Samoa (Eastern Samoa),AS," 23,423.00 ",0.01,NA,NA
+Australia,AU," 91,203.00 ",0.02,31.37,1.32
+Aruba,AW," 20,490.00 ",0,NA,NA
+Barbados,BB," 82,450.00 ",0.02,NA,NA
+Bangladesh,BD," 12,690,328.00 ",2.81,62.93,1.05
+Saint Barthelemy (France),BL," 4,361.00 ",0,NA,NA
+Bermuda,BM," 39,375.00 ",0.01,NA,NA
+Bonaire (Neth),BQb," 2,015.00 ",0,NA,NA
+Saba (Neth),BQs, 827.00 ,0,NA,NA
+Sint Eustatius (Neth),BQe," 1,873.00 ",0,NA,NA
+Brazil,BR," 604,836.00 ",0.13,NA,NA
+The Bahamas,BS," 232,522.00 ",0.05,NA,NA
+Belize,BZ," 70,150.00 ",0.02,NA,NA
+Canada,CA," 814,966.00 ",0.18,25.78,1.47
+Cocos Is.,CC, 19.00 ,0,NA,NA
+Cook Is.,CK," 2,962.00 ",0,NA,NA
+China,CN," 149,609,376.00 ",33.14,26.15,1
+Colombia,CO," 28,007.00 ",0.01,NA,NA
+Costa Rica,CR," 84,150.00 ",0.02,37.3,1.8
+Cuba,CU," 4,338,338.00 ",0.96,38.84,1.35
+Cape Verde,CV," 27,240.00 ",0.01,NA,NA
+Christmas I.,CX, 671.00 ,0,NA,NA
+Denmark,DK, 481.00 ,0,NA,NA
+Dominica,DM," 25,130.00 ",0.01,NA,NA
+Dominican Republic,DO," 2,737,083.00 ",0.61,NA,NA
+Spain,ES," 807,365.00 ",0.18,NA,NA
+Fiji,FJ," 357,481.00 ",0.08,NA,NA
+Micronesia,FM," 6,961.00 ",0,NA,NA
+Faroe Is.,FO," 10,517.00 ",0,NA,NA
+France,FR," 79,958.00 ",0.02,NA,NA
+United Kingdom,GB," 2,027,317.00 ",0.45,NA,NA
+Grenada,GD," 23,075.00 ",0.01,NA,NA
+Guernsey,GG," 10,793.00 ",0,NA,NA
+Greenland,GL," 2,249.00 ",0,NA,NA
+Guadeloupe,GP," 174,788.00 ",0.04,NA,NA
+Guatemala,GT," 20,687.00 ",0,63.61,1.25
+Guam,GU," 202,373.00 ",0.04,NA,NA
+Honduras,HN," 55,694.00 ",0.01,59.44,1.16
+Haiti,HT," 4,362,345.00 ",0.97,74.19,1.14
+Indonesia,ID," 92,935.00 ",0.02,NA,NA
+Ireland,IE," 2,121,311.00 ",0.47,35.84,1.2
+Isle of Man,IM," 25,889.00 ",0.01,NA,NA
+India,IN," 15,560,018.00 ",3.45,56.86,0.91
+Iran,IR," 54,778.00 ",0.01,NA,NA
+Iceland,IS," 99,960.00 ",0.02,NA,NA
+Jersey,JE, 632.00 ,0,NA,NA
+Jamaica,JM," 1,259,490.00 ",0.28,45.24,0.75
+Japan,JP," 85,171,954.00 ",18.86,21.49,0.65
+Cambodia,KH," 628,120.00 ",0.14,NA,NA
+Comoros,KM," 277,554.00 ",0.06,NA,NA
+St. Kitts & Nevis,KN," 25,508.00 ",0.01,NA,NA
+North Korea,KP," 4,547,282.00 ",1.01,67.23,1.11
+South Korea,KR," 19,086,826.00 ",4.23,16.66,1.45
+Cayman Is.,KY," 35,442.00 ",0.01,NA,NA
+Laos,LA," 197,374.00 ",0.04,72.38,1.17
+St. Lucia,LC," 67,489.00 ",0.01,NA,NA
+Sri Lanka,LK," 98,576.00 ",0.02,NA,NA
+Morocco,MA," 398,596.00 ",0.09,NA,NA
+Saint Martin (France),MF," 22,690.00 ",0.01,NA,NA
+Madagascar,MG," 3,575,019.00 ",0.79,81.21,0.88
+Marshall Is.,MH, 5.00 ,0,NA,NA
+Myanmar,MM," 1,278,484.00 ",0.28,58.29,1.13
+Northern Mariana Is.,MP," 51,455.00 ",0.01,NA,NA
+Martinique,MQ," 152,070.00 ",0.03,NA,NA
+Montserrat,MS," 2,124.00 ",0,NA,NA
+Mauritius,MU," 900,290.00 ",0.2,NA,NA
+Mexico,MX," 2,968,848.00 ",0.66,36.44,1.24
+Malaysia,MY," 515,507.00 ",0.11,NA,NA
+Mozambique,MZ," 1,389,499.00 ",0.31,78.04,0.95
+New Caledonia,NC," 66,528.00 ",0.01,NA,NA
+Nicaragua,NI," 108,046.00 ",0.02,60.49,1.42
+Norway,NO," 229,929.00 ",0.05,NA,NA
+Niue,NU, 727.00 ,0,NA,NA
+New Zealand,NZ," 507,205.00 ",0.11,NA,NA
+Oman,OM," 311,075.00 ",0.07,33.79,1.09
+French Polynesia,PF," 3,744.00 ",0,NA,NA
+Papua New Guinea,PG," 43,461.00 ",0.01,NA,NA
+Philippines,PH," 44,489,476.00 ",9.85,50.52,0.74
+Pakistan,PK," 59,523.00 ",0.01,NA,NA
+St. Pierre & Miquelon,PM," 3,164.00 ",0,NA,NA
+Puerto Rico,PR," 1,584,440.00 ",0.35,41.8,1.13
+Portugal,PT," 426,888.00 ",0.09,23.63,2.01
+Palau,PW," 4,703.00 ",0,NA,NA
+Reunion,RE," 904,491.00 ",0.2,NA,NA
+Russia,RU," 100,978.00 ",0.02,NA,NA
+Solomon Is.,SB," 1,641.00 ",0,NA,NA
+Seychelles,SC, 3.00 ,0,NA,NA
+Sweden,SE," 13,252.00 ",0,NA,NA
+Somalia,SO," 161,413.00 ",0.04,89.33,1.09
+El Salvador,SV," 7,343.00 ",0,NA,NA
+Sint Maarten (Neth),SX," 14,714.00 ",0,NA,NA
+Turks & Caicos Is.,TC," 25,881.00 ",0.01,NA,NA
+Thailand,TH," 3,208,681.00 ",0.71,NA,NA
+Tonga,TO," 29,868.00 ",0.01,NA,NA
+Trinidad & Tobago,TT," 189,882.00 ",0.04,NA,NA
+United States,US," 19,794,191.00 ",4.38,26.88,0.79
+St. Vincent & the Grenadines,VC," 33,853.00 ",0.01,NA,NA
+Venezuela,VE," 44,975.00 ",0.01,NA,NA
+British Virgin Is.,VG," 10,461.00 ",0,NA,NA
+Virgin Is.,VI," 39,521.00 ",0.01,NA,NA
+Vietnam,VN," 11,023,809.00 ",2.44,39.66,1.12
+Vanuatu,VU," 88,656.00 ",0.02,NA,NA
+Wallis & Futuna,WF," 4,740.00 ",0,NA,NA
+Samoa,WS," 136,371.00 ",0.03,NA,NA
+Yemen,YE," 342,836.00 ",0.08,NA,NA
+Mayotte,YT," 22,201.00 ",0,NA,NA
+South Africa,ZA," 10,711.00 ",0,NA,NA
+Zimbabwe,ZW," 3,967.00 ",0,NA,NA
+Hong Kong (China),," 4,692,229.00 ",1.04,NA,NA
+Macau (China),," 264,698.00 ",0.06,NA,NA
+Netherlands Antilles,," 22,129.00 ",0,NA,NA
+Taiwan,," 42,130,698.00 ",9.33,20.92,0.49
