@@ -23,3 +23,8 @@ Benjamin L. Rice 1*, Estelle Raobson 2,3, Sylviane Miharisoa 4, Mahery Rebaliha 
 
 #### Please see our pre-print for more information
 https://www.medrxiv.org/content/10.1101/2024.04.02.24305230v1
+#
+
+### Notes on use
+1. Absolute file paths used in R scripts - will have to be edited based on file structure of user
+2. Birthdate information not made publicly available, only age category
